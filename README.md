@@ -1,4 +1,4 @@
-Estudo RefluxJS - Tic Tac Toe
+Estudo ReactJS - Tic Tac Toe
 =========================
 
 ## Referência
